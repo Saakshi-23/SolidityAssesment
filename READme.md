@@ -11,7 +11,7 @@ No, So Let Me Tell About It To You !!
 Solidity is an object-oriented programming language created specifically by the Ethereum Network team for constructing and designing smart contracts on Blockchain platforms.
 
 ### A Small Example as A Code 
- Solidity program to
+ '''Solidity program to
  demonstrate state
  variables
 pragma solidity ^0.5.0;
@@ -23,5 +23,5 @@ contract Solidity_var_Test {
  constructor() public {
 	state_var = 16;
  }
- }
+ }'''
 
