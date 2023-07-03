@@ -1,4 +1,4 @@
-MyToken #
+## MyToken #
 
 This is a straightforward ERC-20 token contract written in Solidity. The contract provides for the generation and destruction of tokens, as well as the storage of token information.
 
